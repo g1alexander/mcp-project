@@ -64,7 +64,7 @@ const addTodo = () => {
 
 .add-button {
   padding: 8px 16px;
-  background-color: #4caf50;
+  background-color: #2196f3;
   color: white;
   border: none;
   border-radius: 4px;
